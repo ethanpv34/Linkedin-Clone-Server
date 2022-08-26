@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "TheEthoman343",
-    "database": "linkedin",
-    "host": "127.0.0.1",
+    "username": "b3c73b42517cc1",
+    "password": "b98b56c5",
+    "database": "heroku_df56835f9c69ae3",
+    "host": "us-cdbr-east-06.cleardb.net",
     "dialect": "mysql"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "b3c73b42517cc1",
+    "password": "b98b56c5",
+    "database": "heroku_df56835f9c69ae3",
+    "host": "us-cdbr-east-06.cleardb.net",
     "dialect": "mysql"
   }
 }

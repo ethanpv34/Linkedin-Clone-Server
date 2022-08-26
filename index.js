@@ -2,7 +2,7 @@ const express = require("express")
 const cors = require("cors")
 const dotenv = require("dotenv")
 const db = require("./models")
-const PORT = 8000
+const PORT = 3001
 
 dotenv.config()
 
